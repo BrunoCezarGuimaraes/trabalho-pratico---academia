@@ -19,8 +19,8 @@ body {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #b52249;
+  border-color: #b52249;
 }
 
 .btn-secondary {
@@ -31,8 +31,8 @@ body {
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #b52249;
+  border-color: #b52249;
 }
 
 /*===== CAROUSEL =====*/
@@ -137,12 +137,12 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #6c757d;
+  background-color: #d52856;
   border-radius: .5rem;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #d52856;
+  background-color: #b52249;
   border-radius: .5rem;
 }
 
